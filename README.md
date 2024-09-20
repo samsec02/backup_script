@@ -1,4 +1,4 @@
-# backup_script
+# Backup script for a Linux system 
 
 1. To download the script to your linux machine use the command 
 `wget https://github.com/samsec02/backup_script/blob/main/script.sh`
