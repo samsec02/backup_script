@@ -1,3 +1,6 @@
 # backup_script
 
-`sudo crontab -e`
+use `sudo crontab -e` to add automation. 
+
+`0 2 * * * /srv/script.sh`
+
