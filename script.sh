@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Backup script to backup data with automatic time. PS: Need to be put in crontab. 
 DATUM=$(date +%Y-%m-%d)
 BACKUP_DIR="/srv/backup"
 mkdir -p "$BACKUP_DIR"
