@@ -5,3 +5,4 @@ Put the script in `sudo crontab -e` and add `0 2 * * * /srv/script.sh` to make i
 To download the script to your linux machine use the command 
 `wget https://github.com/samsec02/backup_script/blob/main/script.sh`
 
+ Make it executable with ` sudo chmod+x script.sh`, make sure to be in the same folder as the script. 
